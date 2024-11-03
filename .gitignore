@@ -1,0 +1,7 @@
+.idea/*
+node_modules/*
+bin/*
+temp/*
+storage/*
+data/*
+config.ts
